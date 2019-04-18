@@ -25,12 +25,12 @@ a img{
 
 ::-moz-selection {
   background-color: #6ab344;
-  color: #fff;
+  color: #24292e;
 }
 
 ::selection {
   background-color: #6ab344;
-  color: #fff;
+  color: #24292e;
 }
 
 .android-search-box .mdl-textfield__input {
