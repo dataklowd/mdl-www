@@ -16,8 +16,8 @@
 
 body {
   margin: 0;
-}
 
+}
 /* Disable ugly boxes around images in IE10 */
 a img{
   border: 0px;
@@ -70,7 +70,7 @@ a img{
 
 .android-header {
   overflow: visible;
-  background-color: white;
+  background-color: #24292e;
 }
 
   .android-header .material-icons {
@@ -118,7 +118,7 @@ a img{
     display: inline-block;
     height: 60px;
     line-height: 68px;
-    background-color: transparent !important;
+    background-color: #24292e !important;
     border-bottom: 4px solid transparent;
   }
 
@@ -162,7 +162,7 @@ a img{
 
   .android-drawer .mdl-layout-title {
     position: relative;
-    background: #6ab344;
+    background: #24292e;
     height: 160px;
   }
 
@@ -430,7 +430,7 @@ a img{
   }
 
 .android-footer {
-  background-color: #fafafa;
+  background-color: #24292e;
   position: relative;
 }
 
