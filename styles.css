@@ -25,12 +25,12 @@ a img{
 
 ::-moz-selection {
   background-color: #6ab344;
-  color: #24292e;
+  color: #fff;
 }
 
 ::selection {
   background-color: #6ab344;
-  color: #24292e;
+  color: #fff;
 }
 
 .android-search-box .mdl-textfield__input {
@@ -118,7 +118,7 @@ a img{
     display: inline-block;
     height: 60px;
     line-height: 68px;
-    background-color: #24292e !important;
+    background-color: transparent !important;
     border-bottom: 4px solid transparent;
   }
 
@@ -162,7 +162,7 @@ a img{
 
   .android-drawer .mdl-layout-title {
     position: relative;
-    background: #24292e;
+    background: #6ab344;
     height: 160px;
   }
 
